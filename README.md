@@ -9,4 +9,4 @@ Remember to open in new tab
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/3keepmovingforward3/Wildfire_Warning_System/main)
 
 ## Dataset  
-[data.7z](https://drive.google.com/file/d/117GBW1IkBOiKTqBnTJxE8E_Bh3J6Ha3g/view?usp=sharing)  
+[data.7z](https://drive.google.com/uc?id=117GBW1IkBOiKTqBnTJxE8E_Bh3J6Ha3g)  
