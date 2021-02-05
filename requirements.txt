@@ -95,7 +95,7 @@ tensorflow>=2.4.1
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
 testpath==0.4.4
-tifffile==2021.1.14
+tifffile>=2021.1.14
 tornado==6.1
 tqdm==4.56.0
 traitlets==5.0.5
