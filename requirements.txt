@@ -18,7 +18,7 @@ entrypoint2==0.2.3
 entrypoints==0.3
 filelock==3.0.12
 flatbuffers==1.12
-gast==0.4.0
+gast
 gdown==3.12.2
 google-auth==1.24.0
 google-auth-oauthlib==0.4.2
