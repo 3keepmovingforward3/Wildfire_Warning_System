@@ -1,0 +1,11 @@
+t = 299
+IMG_SIZE = (t, t)
+shape = (t, t, 1)
+learning_rate = 0.0001
+batch_size = 2
+epochs = 3
+num_classes = 2
+seed_size = 4096
+dropout_keep_prob = 0.2
+interpolation = 'gaussian'
+class_names = ['fire', 'no-fire']
