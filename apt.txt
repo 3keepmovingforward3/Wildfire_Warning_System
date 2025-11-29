@@ -2,4 +2,4 @@ unzip
 unrar 
 p7zip-full
 blas
-laack
+lapack
