@@ -1,3 +1,4 @@
 unzip 
 unrar 
 p7zip-full
+libblas-dev
