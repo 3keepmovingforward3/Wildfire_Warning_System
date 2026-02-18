@@ -57,7 +57,7 @@ numpy
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.9
-pandas==1.2.1
+pandas
 pandocfilters==1.4.3
 parso
 patool==1.12
