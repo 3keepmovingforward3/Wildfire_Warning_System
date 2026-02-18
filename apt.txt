@@ -1,4 +1,5 @@
-lapack
+libblas-dev
+liblapack-dev
 unzip 
 unrar 
 p7zip-full
