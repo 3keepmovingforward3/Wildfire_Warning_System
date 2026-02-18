@@ -13,7 +13,6 @@ chardet
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-distutils==59.0
 EasyProcess==0.3
 entrypoint2==0.2.3
 entrypoints==0.3
